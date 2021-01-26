@@ -16,7 +16,7 @@
 
  
 ### About Me 🚀
-I am an Associate Consultant working in EY since June, 2019. I have worked in Data Analytics and Data Science projects./br>
+I am an Associate Consultant in EY since June, 2019. I am working in Data Analytics and Data Science projects./br>
 I help businesses analyze data for trends and patterns and interpret data with a clear objective in mind.
 I have graduated in Btech(CSE) from Christ University on April, 2019</br>
 
@@ -26,8 +26,7 @@ I have graduated in Btech(CSE) from Christ University on April, 2019</br>
   - Data Science projects in EY
  
 
-  👯 I’m looking to collaborate on projects based on <b>Deep Learning</b> & <b> Machine Learning.</b>
-    
+  👯 I’m looking to collaborate on projects based on <b>Deep Learning</b> & <b> Machine Learning.</b>    
    
 
 
@@ -37,18 +36,3 @@ I have graduated in Btech(CSE) from Christ University on April, 2019</br>
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=whosurajnegi&show_icons=true&hide_border=true)
 <br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**karankartikeya/karankartikeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
