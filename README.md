@@ -1,4 +1,4 @@
-<p align="center"> <img src="assets/hello.gif" alt="Hello" /> </p>
+<p align="center"> <img src="assets/Colorful Motivational LinkedIn Banner.png" alt="Suraj" /> </p>
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Suraj](https://whosurajnegi.github.io/) 
 
