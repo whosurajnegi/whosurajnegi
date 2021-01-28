@@ -23,7 +23,7 @@ I have graduated in Btech(CSE) from Christ University on April, 2019</br>
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
  🔭 I’m currently working on : 
-  - Data Science projects in EY
+  - Data Science projects.
  
 
   👯 I’m looking to collaborate on projects based on <b>Deep Learning</b> & <b> Machine Learning.</b>    
