@@ -2,7 +2,7 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Suraj](https://whosurajnegi.github.io/) 
 
-<a href="https://www.linkedin.com/in/suraj-negi-a007a6124/">
+<a href="https://www.linkedin.com/in/suraj-negi-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-a007a6124/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:surajnegi.pauri@gmail.com">
