@@ -16,9 +16,10 @@
 
  
 ### About Me 🚀
-I am an Associate Consultant in EY since June, 2019. I am working in Data Analytics and Data Science projects.</br>
-I help businesses analyze data for trends and patterns and interpret data with a clear objective in mind.
-I have graduated in Btech(CSE) from Christ University on April, 2019</br>
+I have graduated in Btech(CSE) from Christ University on April, 2019
+I worked for EY until October 2021, when I joined. During my tenure at EY, I received one progression and one advancement from Associate to Consultant.
+I am working in SAP Data Analytics projects.</br>
+I help businesses analyze data for trends and patterns and interpret data with a clear objective in mind.</br>
 
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
