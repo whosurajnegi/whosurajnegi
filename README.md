@@ -17,7 +17,7 @@
  
 ### About Me 🚀
 I have graduated in Btech(CSE) from Christ University on April, 2019
-and worked for EY until October 2021, when I joined. During my tenure at EY, I received one progression and one advancement from Associate to Consultant.
+and worked for EY until October 2021, when I joined Accenture. During my tenure at EY, I received one progression and one advancement from Associate to Consultant.
 I am working in SAP Data Analytics projects.</br>
 I help businesses analyze data for trends and patterns and interpret data with a clear objective in mind.</br>
 
