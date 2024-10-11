@@ -16,15 +16,18 @@
 
  
 ### About Me 🚀
-I have graduated in Btech(CSE) from Christ University on April, 2019
-and worked for EY until October 2021, when I joined Accenture. During my tenure at EY, I received one progression and one advancement from Associate to Consultant.
-I am working in SAP Data Analytics projects.</br>
-I help businesses analyze data for trends and patterns and interpret data with a clear objective in mind.</br>
+I help businesses analyse data for trends and patterns and interpret data with a clear objective in mind.
+
+👨🏼‍💻 Currently Working as Senior Software Engineer in Globant, India.
+
+👨🏼‍🎓Graduate- B.Tech in Computer Science and Engineering from Christ University (2019).
+r</br>
+👣 Upcoming Data Architect with a passion for turning raw data into products, actionable insights, meaningful stories, and developing next-generation analytical solutions..</br>
 
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
  🔭 I’m currently working on : 
-  - Data Science projects.
+  - Data Driven Solutions.
  
 
   👯 I’m looking to collaborate on projects based on <b>Deep Learning</b> & <b> Machine Learning.</b>    
