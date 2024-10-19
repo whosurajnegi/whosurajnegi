@@ -21,8 +21,8 @@ I help businesses analyse data for trends and patterns and interpret data with a
 👨🏼‍💻 Currently Working as Senior Software Engineer in Globant, India.
 
 👨🏼‍🎓Graduate- B.Tech in Computer Science and Engineering from Christ University (2019).
-r</br>
-👣 Upcoming Data Architect with a passion for turning raw data into products, actionable insights, meaningful stories, and developing next-generation analytical solutions..</br>
+</br>
+👣 Upcoming Data Architect with a passion for turning raw data into products, actionable insights, meaningful stories, and developing next-generation analytical solutions.</br>
 
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
